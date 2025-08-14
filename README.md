@@ -1,4 +1,4 @@
-# 🧩 Git Essentials Pack for VS Code
+# 🧩 Git Ultimate Pack for VS Code
 
 Level up your Git game with this curated extension pack — built for developers who love clean commits, smart reviews, and visual clarity. Whether you're solo-building or collaborating across continents, this pack brings together the tools that make Git feel intuitive, intelligent, and even fun.
 
@@ -31,6 +31,10 @@ Level up your Git game with this curated extension pack — built for developers
     <tr>
       <td><strong>GitHub Pull Requests and Issues</strong></td>
       <td>📦 Review PRs, track issues, and collaborate—all from inside VS Code.</td>
+    </tr>
+    <tr>
+      <td><strong>GitHub Repositories</strong></td>
+      <td>🎮 Lets you quickly browse, search, edit, and commit to any remote GitHub repository directly from within Visual Studio Code.</td>
     </tr>
     <tr>
       <td><strong>Project Manager</strong></td>
@@ -78,4 +82,4 @@ Level up your Git game with this curated extension pack — built for developers
 
 ## 📄 License
 
-Distributed under the MIT License.  
+Distributed under the MIT License.
