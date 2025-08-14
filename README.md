@@ -79,6 +79,7 @@ Level up your Git game with this curated extension pack — built for developers
 1. Open Extensions by clicking on the extension icon on the left sidebar panel in your VS Code
 2. Search for `Ultimate Git Extension Pack` in the Extensions tab on the left hand
 3. Click **Install** to add all included extensions
+4. Give the [repo](https://github.com/calebephrem/ultimate-git-extension-pack) a star
 
 ## 📄 License
 
