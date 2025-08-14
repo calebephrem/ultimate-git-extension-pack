@@ -1,0 +1,43 @@
+{
+  "name": "ultimate-git-extension-pack",
+  "displayName": "Ultimate Git Extension Pack",
+  "description": "A curated git extension pack for VS Code that enhances version control with powerful tools for commits, branching, pull requests, and repository insights.",
+  "version": "1.0.0",
+  "publisher": "CalebEphrem",
+  "icon": "assets/icon.png",
+  "author": {
+    "name": "Caleb Ephrem",
+    "email": "quantumpandaprog@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/calebephrem/ultimate-git-extension-pack"
+  },
+  "bugs": {
+    "url": "https://github.com/calebephrem/ultimate-git-extension-pack/issues",
+    "email": "quantumpandaprog@gmail.com"
+  },
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "ultimate git extension pack",
+    "ultimate git",
+    "ultimate git pack",
+    "git extension pack",
+    "git pack"
+  ],
+  "extensionPack": [
+    "eamodio.gitlens",
+    "github.copilot",
+    "github.copilot-chat",
+    "github.vscode-pull-request-github",
+    "mhutchie.git-graph",
+    "felipecaputo.git-project-manager",
+    "coderabbit.coderabbit-vscode",
+    "codezombiech.gitignore"
+  ]
+}
