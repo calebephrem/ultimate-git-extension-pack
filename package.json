@@ -2,7 +2,7 @@
   "name": "ultimate-git-extension-pack",
   "displayName": "Ultimate Git Extension Pack",
   "description": "A curated git extension pack for VS Code that enhances version control with powerful tools for commits, branching, pull requests, and repository insights.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "CalebEphrem",
   "icon": "assets/icon.png",
   "author": {

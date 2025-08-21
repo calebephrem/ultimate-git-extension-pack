@@ -1,3 +1,17 @@
+<br />
+<div align="center">
+
+  <img src="https://github.com/calebephrem/ultimate-git-extension-pack/blob/main/assets/icon.png?raw=true" alt="GIT ULTIMATE PACK" width="200" height="200" />
+
+  <p align="center" style="margin-top: 12px;">
+    <strong><small>YOUR REPO'S BEST FRIEND</small></strong>
+  </p>
+
+  <br />
+  <br />
+  
+</div>
+
 # 🧩 Git Ultimate Pack for VS Code
 
 Level up your Git game with this curated extension pack — built for developers who love clean commits, smart reviews, and visual clarity. Whether you're solo-building or collaborating across continents, this pack brings together the tools that make Git feel intuitive, intelligent, and even fun.
